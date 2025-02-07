@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.slick-slide > div {
+    margin: 0 10px;
+}
+
+/* Make the buttons visible and set them as black */
+.slick-prev, .slick-next {
+    z-index: 10; /* Ensure they are on top of other elements */
+    color: black; /* Set the button color to black */
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: Add a semi-transparent black background */
+    border-radius: 50%; /* Make the buttons circular */
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1; /* Ensure they are fully visible */
+  }
+  
+  .slick-prev:hover, .slick-next:hover {
+    background-color: black; /* Make background solid black on hover */
+    color: white; /* Change arrow color to white on hover */
+  }
+  
+  .slick-prev::before, .slick-next::before {
+    font-size: 20px; /* Adjust icon size */
+    color: black; /* Set the arrow icon color to black */
+    opacity: 1; /* Ensure the arrow icon is visible */
+  }
