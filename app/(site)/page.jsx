@@ -17,9 +17,9 @@ export default function Home() {
         <nav className="flex items-center justify-between">
           <a href="/">
             <img
-              src="https://ceramicpro.co.in/wp-content/uploads/2021/07/CPINDIA_LOGO-2048x594.png"
+              src='/logo.png'
               alt="Logo"
-              className="h-12"
+              className="h-14 "
             />
           </a>
         </nav>
