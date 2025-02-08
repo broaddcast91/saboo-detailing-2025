@@ -324,10 +324,10 @@ const TestDriveForm = () => {
           >
             <option value="">Select service</option>
             <option value="PPF">PPF</option>
-            <option value="Ceramic Coating/Liquid Glass Coating">
-              Ceramic Coating/Liquid Glass Coating
+            <option value="Ceramic Coating">
+              Ceramic Coating
             </option>
-            <option value="Graphene Coating">Graphene Coating</option>
+            <option value="Wrapping">Wrapping</option>
             <option value="Other Services">Other Services</option>
           </select>
           <button
