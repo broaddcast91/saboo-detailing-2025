@@ -1,17 +1,1 @@
-{
-  "node": {
-    "7f618146a1a3809e050fcf5e0a4a27f472c592a7ad": {
-      "workers": {
-        "app/(site)/page": {
-          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frahulreddy%2FDownloads%2Fsaboo-detailing%2Factions%2Flanding-action.js%22%2C%5B%5B%227f618146a1a3809e050fcf5e0a4a27f472c592a7ad%22%2C%22submitForm%22%5D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/(site)/page": "action-browser"
-      }
-    }
-  },
-  "edge": {},
-  "encryptionKey": "A4igrvil8uwcKy/qlPlfRfrxjDej6P5c3qm1LsEc2wI="
-}
+{"node":{"7f01a05802fcfabfe3d9ebb886b6f7e9bc3766befb":{"workers":{"app/(site)/page":{"moduleId":"8730","async":false}},"layer":{"app/(site)/page":"action-browser"}}},"edge":{},"encryptionKey":"ZXGht5JlGwGDdFO7uLeBDqW5fabswy1sW0kvO1j0N8w="}

@@ -1,4 +1,4 @@
-// File: /Users/rahulreddy/Downloads/saboo-detailing/app/(site)/page.jsx
+// File: /Users/rahulreddy/Desktop/saboo-detailing-2025/app/(site)/page.jsx
 import * as entry from '../../../../app/(site)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
